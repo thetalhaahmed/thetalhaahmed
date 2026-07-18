@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @thetalhaahmed
+- 👋 Hi, I’m Talha Ahmed
 - 👀 I’m interested in Web, Mobile and FullStack
 - 🌱 I’m currently working on React.js,Typescript & Redux
-- 📫 How to reach me : talha97ahmed@gmail.com
-- 👀 My portfolio https://thetalhaahmed.github.io
+- 👀 How to reach me : https://thetalhaahmed.com
