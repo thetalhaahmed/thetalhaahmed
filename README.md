@@ -1,5 +1,4 @@
 -Senior Software Engineer with 7+ years of experience building Customer Management and BSS platforms for telecom operators and MVNOs.
-
 -Currently building customizable Customer Management (CM) products at Qvantel (Optiva), delivering themed dashboards for Prepaid/Postpaid and 5G subscription plans
 -Integrate frontend systems with BSS platforms for charging, order management, and authentication
 -Core technical stack: React.js, TypeScript, Redux Toolkit, Next.js, Node.js, Express.js
